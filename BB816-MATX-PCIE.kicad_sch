@@ -1,0 +1,48 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 597c4a8d-3f77-42d9-910f-58b5c53fe80f)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 185.42 115.57) (size 72.39 31.75) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 657faac1-fbd6-4c8d-a4d3-eff8e97b16de)
+    (property "Sheetname" "BB816-MATX" (at 185.42 114.8584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "BB816-MATX/BB816-MATX.kicad_sch" (at 185.42 147.9046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "BB816-MATX-PCIE"
+        (path "/597c4a8d-3f77-42d9-910f-58b5c53fe80f" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 185.42 71.12) (size 73.66 30.48) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b4c09f33-6222-41a2-a3c9-021ee614145a)
+    (property "Sheetname" "BB816-PCIE" (at 185.42 70.4084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "BB816-PCIE/BB816-PCIE.kicad_sch" (at 185.42 102.1846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "BB816-MATX-PCIE"
+        (path "/597c4a8d-3f77-42d9-910f-58b5c53fe80f" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

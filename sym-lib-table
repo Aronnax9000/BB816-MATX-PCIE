@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BB816-MATX-PCIE")(type "KiCad")(uri "${KIPRJMOD}/BB816-MATX-PCIE.kicad_sym")(options "")(descr ""))
+)
