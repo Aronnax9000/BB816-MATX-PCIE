@@ -8,4 +8,4 @@ This project adapts an [ATX layout](https://github.com/theguydanish/CM4_MATX) cr
 
 ![PCB](images/pcb.png)
 
-![PCB](images/pcb.png)
+![PCB](images/pcb_detail.png)
