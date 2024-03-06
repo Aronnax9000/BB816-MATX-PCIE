@@ -446,7 +446,10 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "BB816",
+      "BB816-MATX-PCIE"
+    ]
   },
   "meta": {
     "filename": "BB816-PCIE-BANKZERO.kicad_pro",

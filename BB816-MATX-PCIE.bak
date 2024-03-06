@@ -5623,7 +5623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS125"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC125"
 			(at 0 0 0)
 			(effects
 				(font
