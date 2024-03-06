@@ -5614,7 +5614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 0 0 0)
 			(effects
 				(font
