@@ -30585,7 +30585,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-40_W15.24mm_Socket"
 			(at 0 3.81 0)
 			(effects
 				(font
@@ -31392,7 +31392,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 			(at 0 3.81 0)
 			(effects
 				(font

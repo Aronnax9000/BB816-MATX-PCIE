@@ -6519,7 +6519,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_DIP:DIP-40_W15.24mm_Socket"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -7326,7 +7326,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -9559,10 +9559,6 @@
 		(at 72.39 248.92)
 		(uuid "f1f66922-548e-49a0-afe6-451316391a39")
 	)
-	(no_connect
-		(at 64.77 214.63)
-		(uuid "f4d66b46-f5e4-462d-97ea-2b0eea5eb4fb")
-	)
 	(bus_entry
 		(at 208.28 147.32)
 		(size 2.54 2.54)
@@ -11314,16 +11310,6 @@
 		)
 		(uuid "508930a0-813f-43cd-a63a-c3e34a053063")
 	)
-	(wire
-		(pts
-			(xy 43.18 218.44) (xy 43.18 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50a836d8-fe72-446f-8a13-a3208ee3e5a4")
-	)
 	(bus
 		(pts
 			(xy 166.37 140.97) (xy 166.37 143.51)
@@ -12323,16 +12309,6 @@
 			(type default)
 		)
 		(uuid "97ed9f22-bb53-491e-887d-be8adfcc4be0")
-	)
-	(wire
-		(pts
-			(xy 57.15 220.98) (xy 43.18 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98fb0ef2-33b1-4e6f-a5d7-f91f2e278a51")
 	)
 	(wire
 		(pts
@@ -17535,71 +17511,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 49.53 214.63 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3720710f-2ba3-45fa-aed6-fe3cc42a8aeb")
-		(property "Reference" "#PWR027"
-			(at 49.53 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 49.657 219.0242 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 49.53 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 49.53 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 49.53 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "72a87d59-7f6e-4f43-a6c9-97383e6fe270")
-		)
-		(instances
-			(project "BB816-PCIE-BANKZERO"
-				(path "/7d7ddd8d-6afe-4f94-a79c-e7b1fbf309ce"
-					(reference "#PWR027")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VCC")
 		(at 217.17 198.12 270)
 		(unit 1)
@@ -19374,7 +19285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 			(at 351.79 143.51 0)
 			(effects
 				(font
@@ -19733,7 +19644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-40_W15.24mm_Socket"
 			(at 320.04 66.04 0)
 			(effects
 				(font
@@ -20841,7 +20752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-28_W15.24mm_Socket"
 			(at 303.53 142.24 0)
 			(effects
 				(font
@@ -22051,72 +21962,6 @@
 				(path "/7d7ddd8d-6afe-4f94-a79c-e7b1fbf309ce"
 					(reference "U6")
 					(unit 3)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 43.18 218.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7512f87-f652-4198-9112-dd6bbda8c6b3")
-		(property "Reference" "#PWR014"
-			(at 43.18 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 43.18 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 43.18 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89f484bc-2179-422e-80bc-edb89c0611d9")
-		)
-		(instances
-			(project "BB816-PCIE-BANKZERO"
-				(path "/7d7ddd8d-6afe-4f94-a79c-e7b1fbf309ce"
-					(reference "#PWR014")
-					(unit 1)
 				)
 			)
 		)

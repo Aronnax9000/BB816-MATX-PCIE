@@ -1,4 +1,4 @@
-27356431739019
+20506148976945
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,34 +13,6 @@ audio belton reverb
 0
 7
 7
-BB816
-0R_Jumper_R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
-0
-2
-2
-BB816
-163179PHEX
-163-179PH-EX
-Connector
-0
-3
-3
-BB816
-Teensy2.0++
-20
-
-0
-52
-52
-BB816-MATX-PCIE
-228-1277-00-0602J_3MM
-
-228-1277-00-0602J 
-0
-28
-28
 BB816-MATX-PCIE
 10018783-10113TLF
 10018783-10113TLF
