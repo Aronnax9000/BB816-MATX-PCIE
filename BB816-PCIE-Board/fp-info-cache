@@ -1,4 +1,4 @@
-20506148976945
+23925967459577
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BB816-MATX-PCIE
+228-1277-00-0602J_3MM
+
+228-1277-00-0602J 
+0
+28
+28
 BB816-MATX-PCIE
 10018783-10113TLF
 10018783-10113TLF
@@ -55,6 +62,13 @@ mounting hole 3.2mm m3
 0
 9
 1
+BB816-MATX-PCIE
+PCIeX16Card
+
+
+0
+164
+164
 BB816-MATX-PCIE
 PCIexpress_x16_HW_FH
 PCIexpress x16 footprint
