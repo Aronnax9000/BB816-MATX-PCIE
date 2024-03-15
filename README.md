@@ -1,5 +1,7 @@
 # BB816-PCIe
-Adapt Adrien Kohlbecker's BB816 Breakout Board to PCIExpress x16 connector.
+Adapt Adrien Kohlbecker's BB816 Breakout Board to PCIExpress x16 style connector.
+
+Four slots for expansion cards based on PCIe geometry and the mATX Specification
 
 ![Backplane](BB816-MATX/images/pcb.png)
 
