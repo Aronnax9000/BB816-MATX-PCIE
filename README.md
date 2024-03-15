@@ -1,7 +1,7 @@
 # BB816-PCIe
 Adapt Adrien Kohlbecker's BB816 Breakout Board to PCIExpress x16 connector.
 
-![Schematic](images/BB816-PCIe.png)
+![Schematic](BB816-PCIE-BANKZERO/images/schematic.png)
 
-![PCB](images/pcb.png) 
+![VectorPullRewrite](images/vpb.png) 
  
