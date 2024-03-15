@@ -3,7 +3,7 @@ Adapt Adrien Kohlbecker's BB816 Breakout Board to PCIExpress x16 connector.
 
 ![Backplane](BB816-MATX/images/pcb.png)
 
-![Backplane Detail](BB816-MATX/images/pcbdetail.png)
+![Backplane Detail](BB816-MATX/images/pcb_detail.png)
 
 ![Backplane Scematic](BB816-MATX/images/schematic.png)
 
